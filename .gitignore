@@ -134,4 +134,4 @@ dmypy.json
 # data folders
 /gd_train
 /gd_imp_train
-
+.DS_Store
