@@ -197,159 +197,159 @@ wsj557, bar
 wsj561, info
 wsj593, bar
 wsj612, line
-wsj79
-wsj9
-wsj99
-economist_daily_chart_10
-economist_daily_chart_100
-economist_daily_chart_101
-economist_daily_chart_102
-economist_daily_chart_104
-economist_daily_chart_105
-economist_daily_chart_107
-economist_daily_chart_108
-economist_daily_chart_109
-economist_daily_chart_111
-economist_daily_chart_112
-economist_daily_chart_113
-economist_daily_chart_114
-economist_daily_chart_115
-economist_daily_chart_117
-economist_daily_chart_118
-economist_daily_chart_119
-economist_daily_chart_120
-economist_daily_chart_121
-economist_daily_chart_122
-economist_daily_chart_123
-economist_daily_chart_125
-economist_daily_chart_126
-economist_daily_chart_127
-economist_daily_chart_128
-economist_daily_chart_13
-economist_daily_chart_130
-economist_daily_chart_131
-economist_daily_chart_132
-economist_daily_chart_133
-economist_daily_chart_134
-economist_daily_chart_135
-economist_daily_chart_136
-economist_daily_chart_137
-economist_daily_chart_138
-economist_daily_chart_139
-economist_daily_chart_14
-economist_daily_chart_140
-economist_daily_chart_141
-economist_daily_chart_142
-economist_daily_chart_143
-economist_daily_chart_144
-economist_daily_chart_145
-economist_daily_chart_146
-economist_daily_chart_147
-economist_daily_chart_148
-economist_daily_chart_15
-economist_daily_chart_150
-economist_daily_chart_151
-economist_daily_chart_152
-economist_daily_chart_155
-economist_daily_chart_156
-economist_daily_chart_157
-economist_daily_chart_158
-economist_daily_chart_159
-economist_daily_chart_16
-economist_daily_chart_160
-economist_daily_chart_161
-economist_daily_chart_162
-economist_daily_chart_163
-economist_daily_chart_166
-economist_daily_chart_168
-economist_daily_chart_169
-economist_daily_chart_17
-economist_daily_chart_170
-economist_daily_chart_171
-economist_daily_chart_172
-economist_daily_chart_173
-economist_daily_chart_174
-economist_daily_chart_175
-economist_daily_chart_176
-economist_daily_chart_177
-economist_daily_chart_178
-economist_daily_chart_179
-economist_daily_chart_180
-economist_daily_chart_181
-economist_daily_chart_182
-economist_daily_chart_183
-economist_daily_chart_184
-economist_daily_chart_185
-economist_daily_chart_186
-economist_daily_chart_188
-economist_daily_chart_189
-economist_daily_chart_19
-economist_daily_chart_190
-economist_daily_chart_191
-economist_daily_chart_192
-economist_daily_chart_194
-economist_daily_chart_196
-economist_daily_chart_197
-economist_daily_chart_198
-economist_daily_chart_199
-economist_daily_chart_2
-economist_daily_chart_20
-economist_daily_chart_200
-economist_daily_chart_201
-economist_daily_chart_203
-economist_daily_chart_204
-economist_daily_chart_205
-economist_daily_chart_206
-economist_daily_chart_207
-economist_daily_chart_208
-economist_daily_chart_209
-economist_daily_chart_21
-economist_daily_chart_210
-economist_daily_chart_211
-economist_daily_chart_212
-economist_daily_chart_213
-economist_daily_chart_216
-economist_daily_chart_217
-economist_daily_chart_218
-economist_daily_chart_22
-economist_daily_chart_220
-economist_daily_chart_221
-economist_daily_chart_222
-economist_daily_chart_223
-economist_daily_chart_224
-economist_daily_chart_225
-economist_daily_chart_226
-economist_daily_chart_227
-economist_daily_chart_228
-economist_daily_chart_229
-economist_daily_chart_23
-economist_daily_chart_230
-economist_daily_chart_231
-economist_daily_chart_232
-economist_daily_chart_233
-economist_daily_chart_234
-economist_daily_chart_235
-economist_daily_chart_236
-economist_daily_chart_237
-economist_daily_chart_238
-economist_daily_chart_24
-economist_daily_chart_241
-economist_daily_chart_243
-economist_daily_chart_244
-economist_daily_chart_245
-economist_daily_chart_246
-economist_daily_chart_247
-economist_daily_chart_248
-economist_daily_chart_249
-economist_daily_chart_25
-economist_daily_chart_250
-economist_daily_chart_251
-economist_daily_chart_252
-economist_daily_chart_253
-economist_daily_chart_254
-economist_daily_chart_256
-economist_daily_chart_257
-economist_daily_chart_259 
+wsj79, info
+wsj9, bar
+wsj99, map
+economist_daily_chart_10, bar, scatter
+economist_daily_chart_100, line
+economist_daily_chart_101, line
+economist_daily_chart_102, bar
+economist_daily_chart_104, bar, line
+economist_daily_chart_105, bar
+economist_daily_chart_107, bar, scatter
+economist_daily_chart_108, bar
+economist_daily_chart_109, bar
+economist_daily_chart_111, bar, line
+economist_daily_chart_112, bar
+economist_daily_chart_113, bar, line
+economist_daily_chart_114, map
+economist_daily_chart_115, bar
+economist_daily_chart_117, bar
+economist_daily_chart_118, line
+economist_daily_chart_119, bar
+economist_daily_chart_120, bar
+economist_daily_chart_121, line
+economist_daily_chart_122, bar
+economist_daily_chart_123, bar
+economist_daily_chart_125, bar
+economist_daily_chart_126, map
+economist_daily_chart_127, scatter
+economist_daily_chart_128, bar
+economist_daily_chart_13, bar
+economist_daily_chart_130, bar
+economist_daily_chart_131, line, scatter
+economist_daily_chart_132, bar
+economist_daily_chart_133, bar, line
+economist_daily_chart_134, bar
+economist_daily_chart_135, bar
+economist_daily_chart_136, line
+economist_daily_chart_137, info
+economist_daily_chart_138, bar
+economist_daily_chart_139, bar
+economist_daily_chart_14, map, bar
+economist_daily_chart_140, map
+economist_daily_chart_141, bar
+economist_daily_chart_142, map
+economist_daily_chart_143, bar
+economist_daily_chart_144, map
+economist_daily_chart_145, other
+economist_daily_chart_146, map
+economist_daily_chart_147, bar, line
+economist_daily_chart_148, bar
+economist_daily_chart_15, bar, line
+economist_daily_chart_150, bar
+economist_daily_chart_151, bar, scatter
+economist_daily_chart_152, scatter
+economist_daily_chart_155, bar, map
+economist_daily_chart_156, bar
+economist_daily_chart_157, line
+economist_daily_chart_158, bar, line
+economist_daily_chart_159, scatter
+economist_daily_chart_16, bar, map
+economist_daily_chart_160, bar
+economist_daily_chart_161, scatter, line
+economist_daily_chart_162, line
+economist_daily_chart_163, bar
+economist_daily_chart_166, bar
+economist_daily_chart_168, bar
+economist_daily_chart_169, bar
+economist_daily_chart_17, bar, map
+economist_daily_chart_170, bar
+economist_daily_chart_171, line
+economist_daily_chart_172, bar
+economist_daily_chart_173, map
+economist_daily_chart_174, bar
+economist_daily_chart_175, info
+economist_daily_chart_176, line
+economist_daily_chart_177, bar
+economist_daily_chart_178, bar
+economist_daily_chart_179, bar
+economist_daily_chart_180, line
+economist_daily_chart_181, bar
+economist_daily_chart_182, bar
+economist_daily_chart_183, bar
+economist_daily_chart_184, line
+economist_daily_chart_185, bar
+economist_daily_chart_186, map
+economist_daily_chart_188, bar
+economist_daily_chart_189, bar
+economist_daily_chart_19, bar, line
+economist_daily_chart_190, bar
+economist_daily_chart_191, map
+economist_daily_chart_192, bar
+economist_daily_chart_194, bar
+economist_daily_chart_196, other
+economist_daily_chart_197, bar
+economist_daily_chart_198, line
+economist_daily_chart_199, bar
+economist_daily_chart_2, bar
+economist_daily_chart_20, line
+economist_daily_chart_200, bar
+economist_daily_chart_201, bar
+economist_daily_chart_203, line
+economist_daily_chart_204, bar
+economist_daily_chart_205, bar
+economist_daily_chart_206, bar, line
+economist_daily_chart_207, line
+economist_daily_chart_208, line, scatter
+economist_daily_chart_209, line
+economist_daily_chart_21, bar, map
+economist_daily_chart_210, bar, line
+economist_daily_chart_211, line
+economist_daily_chart_212, bar
+economist_daily_chart_213, bar
+economist_daily_chart_216, bar
+economist_daily_chart_217, bar
+economist_daily_chart_218, line
+economist_daily_chart_22, bar
+economist_daily_chart_220, bar
+economist_daily_chart_221, line
+economist_daily_chart_222, other
+economist_daily_chart_223, scatter
+economist_daily_chart_224, bar
+economist_daily_chart_225, bar
+economist_daily_chart_226, line
+economist_daily_chart_227, bar
+economist_daily_chart_228, bar, line
+economist_daily_chart_229, bar
+economist_daily_chart_23, bar
+economist_daily_chart_230, bar
+economist_daily_chart_231, line, scatter
+economist_daily_chart_232, bar
+economist_daily_chart_233, bar, line
+economist_daily_chart_234, info
+economist_daily_chart_235, line
+economist_daily_chart_236, line
+economist_daily_chart_237, bar
+economist_daily_chart_238, bar
+economist_daily_chart_24, bar, map
+economist_daily_chart_241, info
+economist_daily_chart_243, bar, map
+economist_daily_chart_244, info
+economist_daily_chart_245, info
+economist_daily_chart_246, bar
+economist_daily_chart_247, bar
+economist_daily_chart_248, line, scatter
+economist_daily_chart_249, map
+economist_daily_chart_25, bar
+economist_daily_chart_250, bar
+economist_daily_chart_251, bar
+economist_daily_chart_252, bar
+economist_daily_chart_253, line
+economist_daily_chart_254, bar
+economist_daily_chart_256, bar
+economist_daily_chart_257, line, scatter
+economist_daily_chart_259, bar, line
 economist_daily_chart_26, bar, map
 economist_daily_chart_260, bar
 economist_daily_chart_261, bar
