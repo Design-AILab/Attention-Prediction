@@ -1,202 +1,202 @@
-economist_daily_chart_103
-economist_daily_chart_106
-economist_daily_chart_110
-economist_daily_chart_116
-economist_daily_chart_124
-economist_daily_chart_129
-economist_daily_chart_153
-economist_daily_chart_165
-economist_daily_chart_167
-economist_daily_chart_202
-economist_daily_chart_215
-economist_daily_chart_219
-economist_daily_chart_242
-economist_daily_chart_258
-economist_daily_chart_268
-economist_daily_chart_317
-economist_daily_chart_324
-economist_daily_chart_35
-economist_daily_chart_380
-economist_daily_chart_390
-economist_daily_chart_392
-economist_daily_chart_4
-economist_daily_chart_406
-economist_daily_chart_416
-economist_daily_chart_430
-economist_daily_chart_439
-economist_daily_chart_449
-economist_daily_chart_45
-economist_daily_chart_453
-economist_daily_chart_454
-economist_daily_chart_46
-economist_daily_chart_475
-economist_daily_chart_48
-economist_daily_chart_491
-economist_daily_chart_493
-economist_daily_chart_5
-economist_daily_chart_516
-economist_daily_chart_520
-economist_daily_chart_521
-economist_daily_chart_529
-economist_daily_chart_53
-economist_daily_chart_66
-economist_daily_chart_75
-economist_daily_chart_85
-economist_daily_chart_89
-economist_daily_chart_99
-treasuryA10
-treasuryB04
-treasuryB10
-treasuryB15
-treasuryI01_2
-treasuryI02_1
-treasuryK01
-treasuryL03_2
-treasuryL11_2
-v484_n7392_14_f3
-vis109
-vis230
-vis250
-vis278
-vis286
-vis288
-vis328
-vis409
-vis416
-vis428
-vis499
-vis512
-vis564
-vis586
-vis625
-vis652
-vis678
-vis697
-vis708
-vis729
-vis768
-vis831
-vis850
-vis853
-vis87
-visMost108
-visMost143
-visMost187
-visMost190
-visMost217
-visMost227
-visMost271
-visMost376
-visMost456
-visMost505
-visMost523
-visMost526
-visMost54
-visMost55
-visMost575
-visMost635
-visMost745
-visMost77
-visMost83
-visMost92
-whoB03_1
-whoB05_1
-whoB13_2
-whoB15_1
-whoB19_1
-whoB20_1
-whoB22_1
-whoB24_1
-whoB25_2
-whoB32_1
-whoI11_1
-whoI19
-whoJ15_1
-whoJ15_2
-whoJ23
-whoJ32
-whoJ33
-whoJ36_1
-whoJ36_2
-whoJ40_2
-whoJ44
-whoJ48_2
-whoK06_2
-whoK07_2
-whoK12_2
-whoK17_1
-whoK19_1
-whoK23_2
-whoL06
-whoN05
-whoN16_1
-whoN32_2
-whoO06_2
-whoQ06_2
-whoQ18_3
-whoQ26
-whoQ32_2
-wsj10
-wsj104
-wsj108
-wsj11
-wsj116
-wsj129
-wsj135
-wsj144
-wsj147
-wsj162
-wsj167
-wsj170
-wsj172
-wsj176
-wsj184
-wsj20
-wsj21
-wsj214
-wsj220
-wsj226
-wsj233
-wsj240
-wsj259
-wsj262
-wsj264
-wsj270
-wsj271
-wsj277
-wsj286
-wsj292
-wsj294
-wsj297
-wsj299
-wsj308
-wsj316
-wsj340
-wsj359
-wsj360
-wsj392
-wsj395
-wsj405
-wsj441
-wsj459
-wsj462
-wsj474
-wsj481
-wsj505
-wsj508
-wsj511
-wsj52
-wsj521
-wsj529
-wsj533
-wsj536
-wsj54
-wsj540
-wsj553
-wsj557
-wsj561
-wsj593
-wsj612
+economist_daily_chart_103, bar
+economist_daily_chart_106, bar
+economist_daily_chart_110, map
+economist_daily_chart_116, line
+economist_daily_chart_124, map
+economist_daily_chart_129, line
+economist_daily_chart_153, line
+economist_daily_chart_165, bar,
+economist_daily_chart_167, bar
+economist_daily_chart_202, scatter
+economist_daily_chart_215, map
+economist_daily_chart_219, map
+economist_daily_chart_242, bar
+economist_daily_chart_258, scatter
+economist_daily_chart_268, other
+economist_daily_chart_317, map
+economist_daily_chart_324, bar
+economist_daily_chart_35, bar
+economist_daily_chart_380, line
+economist_daily_chart_390, line
+economist_daily_chart_392, bar
+economist_daily_chart_4, bar
+economist_daily_chart_406, map
+economist_daily_chart_416, bar, line
+economist_daily_chart_430, line
+economist_daily_chart_439, bar
+economist_daily_chart_449, bar
+economist_daily_chart_45, bar
+economist_daily_chart_453, line
+economist_daily_chart_454, bar
+economist_daily_chart_46, info
+economist_daily_chart_475, map
+economist_daily_chart_48, map
+economist_daily_chart_491, bar
+economist_daily_chart_493, map
+economist_daily_chart_5, bar
+economist_daily_chart_516, bar
+economist_daily_chart_520, bar, line
+economist_daily_chart_521, line
+economist_daily_chart_529, bar, line
+economist_daily_chart_53, bar
+economist_daily_chart_66, line
+economist_daily_chart_75, bar
+economist_daily_chart_85, bar
+economist_daily_chart_89, map
+economist_daily_chart_99, map
+treasuryA10, line
+treasuryB04, line
+treasuryB10, bar
+treasuryB15, scatter
+treasuryI01_2, line
+treasuryI02_1, bar, line
+treasuryK01, info
+treasuryL03_2, other
+treasuryL11_2, other
+v484_n7392_14_f3, info
+vis109, info
+vis230, bar
+vis250, bar
+vis278, map
+vis286, map
+vis288, info
+vis328, info
+vis409, info
+vis416, info
+vis428, info
+vis499, info
+vis512, info
+vis564, info
+vis586, line
+vis625, other
+vis652, info
+vis678, bar
+vis697, map
+vis708, info
+vis729, map
+vis768, scatter
+vis831, info
+vis850, info
+vis853, map
+vis87, map
+visMost108, bar
+visMost143, bar
+visMost187, scatter
+visMost190, scatter
+visMost217, info
+visMost227, info
+visMost271, map
+visMost376, info
+visMost456, info
+visMost505, scatter
+visMost523, map
+visMost526, info
+visMost54, bar
+visMost55, bar
+visMost575, scatter
+visMost635, map
+visMost745, info
+visMost77, info
+visMost83, other
+visMost92, other
+whoB03_1, bar
+whoB05_1, bar
+whoB13_2, other
+whoB15_1, bar
+whoB19_1, other
+whoB20_1, bar
+whoB22_1, other
+whoB24_1, scatter
+whoB25_2, line
+whoB32_1, bar
+whoI11_1, bar
+whoI19, line
+whoJ15_1, bar
+whoJ15_2, other
+whoJ23, other
+whoJ32, bar
+whoJ33, line
+whoJ36_1, bar
+whoJ36_2, line
+whoJ40_2, other
+whoJ44, line
+whoJ48_2, map
+whoK06_2, other
+whoK07_2, other
+whoK12_2, map
+whoK17_1, bar
+whoK19_1, bar
+whoK23_2, bar
+whoL06, bar
+whoN05, line
+whoN16_1, bar
+whoN32_2, bar
+whoO06_2, bar
+whoQ06_2, line
+whoQ18_3, bar
+whoQ26, map
+whoQ32_2, scatter
+wsj10, other
+wsj104, other
+wsj108, line
+wsj11, bar
+wsj116, info
+wsj129, info
+wsj135, bar
+wsj144, map
+wsj147, info
+wsj162, bar
+wsj167, line
+wsj170, line
+wsj172, bar
+wsj176, bar, line
+wsj184, lne
+wsj20, info
+wsj21, info
+wsj214, info
+wsj220, bar
+wsj226, bar
+wsj233, info
+wsj240, info
+wsj259, info
+wsj262, line
+wsj264, bar
+wsj270, line
+wsj271, bar
+wsj277, bar
+wsj286, other
+wsj292, other
+wsj294, scatter
+wsj297, other
+wsj299, other
+wsj308, bar
+wsj316, line
+wsj340, other
+wsj359, line
+wsj360, bar
+wsj392, bar
+wsj395, line
+wsj405line
+wsj441, map
+wsj459, bar
+wsj462, map
+wsj474, other
+wsj481, bar
+wsj505, info
+wsj508, line
+wsj511, map
+wsj52, line
+wsj521, bar
+wsj529, bar
+wsj533, scatter
+wsj536, bar
+wsj54, line
+wsj540, scatter
+wsj553, bar
+wsj557, bar
+wsj561, info
+wsj593, bar
+wsj612, line
 wsj79
 wsj9
 wsj99
