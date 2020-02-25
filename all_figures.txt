@@ -150,7 +150,7 @@ wsj167, line
 wsj170, line
 wsj172, bar
 wsj176, bar, line
-wsj184, lne
+wsj184, line
 wsj20, info
 wsj21, info
 wsj214, info
@@ -176,7 +176,7 @@ wsj359, line
 wsj360, bar
 wsj392, bar
 wsj395, line
-wsj405line
+wsj405, line
 wsj441, map
 wsj459, bar
 wsj462, map
@@ -459,7 +459,7 @@ economist_daily_chart_372, scatter
 economist_daily_chart_373, bar
 economist_daily_chart_374, bar
 economist_daily_chart_375, bar
-economist_daily_chart_376. info
+economist_daily_chart_376, info
 economist_daily_chart_377, bar, line
 economist_daily_chart_378, other, bar
 economist_daily_chart_379, bar
