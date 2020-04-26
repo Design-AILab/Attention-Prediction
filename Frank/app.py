@@ -1,5 +1,6 @@
 import flask
 import os
+import matplotlib.pyplot as plt
 from werkzeug.utils import secure_filename
 
 app = flask.Flask(__name__, template_folder='templates')
@@ -22,7 +23,7 @@ def prediction(filename):
 
     ### code for prediction
     
-    return render_template('predict.html', predictions=predictions)
+    return flask.render_template('predict.html')
 
 
 app.run()
